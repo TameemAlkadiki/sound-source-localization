@@ -1,0 +1,5 @@
+# Runtime: standard library only — no packages required to run demo.py or alpata_localizer.py.
+# (Uses only: math, random, time — all built into Python 3.x)
+#
+# Test runner:
+pytest>=7.0
